@@ -1,0 +1,19 @@
+{
+  "name": "allah",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-music-player": "^7.1.4",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "drahovdb": "^1.0.4",
+    "ffmpeg": "^0.0.4",
+    "opusscript": "0.0.8"
+  }
+}
