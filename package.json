@@ -1,12 +1,12 @@
 {
-  "name": "allah",
-  "version": "1.0.0",
-  "description": "",
+  "name": "great_player_bot",
+  "version": "0.0.1",
+  "description": "A great player for your server",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node index.js"
   },
-  "author": "",
+  "author": "Drahov",
   "license": "ISC",
   "dependencies": {
     "discord-music-player": "^7.2.0",
